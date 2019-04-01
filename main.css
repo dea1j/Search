@@ -8,6 +8,7 @@ header{
   margin: 20px;
   border-bottom: 1px solid #eee;
   font: Arial;
+  /* Find another font to use*/
 }
 form{
   display: inline-block;
@@ -16,8 +17,6 @@ form{
   background: white;
   width: 100%;
   top: 0;
- 
-    
 }
 input{
   margin: 15px 12px;
@@ -78,7 +77,8 @@ em{
   }
 main div{
   width: 650px;
-  font-size: 13.5px;
+  font-size: 14px;
+  /* Chenged it from 13.5 to 14. might need to change it back */
 }
 main div a, main div h3{
       color: #1a0dab;
